@@ -1,5 +1,0 @@
-tabs: ["src/index.html", "src/folder/script1.js", "src/style.css"]
-terminals: ["static-server -p 1337 --no-cache"]
-playground-view: terminal-editor-browser
-run-button: node $$file
-browser-link: https://codedamn.com
